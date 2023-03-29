@@ -1,0 +1,1328 @@
+{
+  "Sofas"  : [
+    {
+        "id":1,
+        "title":"Styleonza Fabric Sectional Sofa (Dark Grey-Light Grey)",
+        "image":"https://www.ulcdn.net/images/products/750832/original/FNSF51NZDL3A_-_main_1.jpg?1677757146",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":3,
+        "price":51605,
+        "discount":1801
+    },
+    {
+        "id":2,
+        "title":"Thiene Sofa (Cappuccino Italian Leather)",
+        "image":"https://www.ulcdn.net/images/products/173645/original/FNSF54TSBE3_-_main_1.jpg?1521110007",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":3,
+        "price":130462,
+        "discount":6264
+    },
+    {
+        "id":3,
+        "title":"New Louis Wooden Sofa",
+        "image":"https://www.ulcdn.net/images/products/700586/original/FNSF51WDLU3_-_main_2.jpg?1668496710",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":76860,
+        "discount":3990
+    },
+    {
+        "id":4,
+        "title":"Farina Half Leather Sofa (Mustard Italian Leather)",
+        "image":"https://www.ulcdn.net/images/products/312614/original/FNSF52FAMD_-_main_1.png?1607932206",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":2,
+        "price":85605,
+        "discount":4111
+    },
+    {
+        "id":5,
+        "title":"Farina Half Leather Sofa (Italian Leather)",
+        "image":"https://www.ulcdn.net/images/products/58283/original/FNSF52FABG3_-_main_1.jpg?1464079496",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":2,
+        "price":85105,
+        "discount":4011
+    },
+    {
+        "id":6,
+        "title":"Bunbury Fabric Sofa - Brown",
+        "image":"https://www.ulcdn.net/images/products/414567/original/FNSF51BBBR3_-_main_23.jpg?1635332218",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":2,
+        "price":35305,
+        "discount":1001
+    },
+    {
+        "id":7,
+        "title":"Jaffna Sectional Fabric Sofa - Beige & Green",
+        "image":"https://www.ulcdn.net/images/products/368642/original/FNSF51JFBG3_-_main_1.jpg?1628265216",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":3,
+        "price":95005,
+        "discount":4301
+    },
+    {
+        "id":8,
+        "title":"Dijon Sectional Fabric Sofa - Mustard & Grey",
+        "image":"https://www.ulcdn.net/images/products/368637/original/FNSF51DJMG3_-_main_1.jpg?1628265259",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":4,
+        "price":85605,
+        "discount":3301
+    },
+    {
+        "id":9,
+        "title":"Bari Wooden Sofa - Red",
+        "image":"https://www.ulcdn.net/images/products/414571/original/FNSF51BIRD3_-_main_65.jpg?1635332220",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":45605,
+        "discount":2301
+    },
+    {
+        "id":10,
+        "title":"Novena Wooden Sofa - Brown",
+        "image":"https://www.ulcdn.net/images/products/369018/original/FNSF51VABR3_-_main_1.jpg?1628348209",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":35005,
+        "discount":1381
+    },
+    {
+        "id":11,
+        "title":"Urbanway Sectional Fabric Sofa",
+        "image":"https://www.ulcdn.net/images/products/643424/original/FNSF51URGB3_-_main_1.jpg?1659214616",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":3,
+        "price":41005,
+        "discount":1301
+    },
+    {
+        "id":12,
+        "title":"Farina Half Leather Sectional Sofa",
+        "image":"https://www.ulcdn.net/images/products/313543/original/FNSF52FACA3L_-_main_1.png?1611552737",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":3,
+        "price":145760,
+        "discount":6999
+    },
+    {
+        "id":13,
+        "title":"Seoul Wooden Sofa",
+        "image":"https://www.ulcdn.net/images/products/700418/original/FNSF51CRSE3_-_main_2.jpg?1668496659",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":26760,
+        "discount":999
+    },
+    {
+        "id":14,
+        "title":"Farina Half Leather Sectional Sofa (Cream Italian Leather)",
+        "image":"https://www.ulcdn.net/images/products/202669/original/FNSF52FACR3_-_main_1.jpg?1534490549",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":3,
+        "price":150962,
+        "discount":7337
+    },
+    {
+        "id":15,
+        "title":"Catalina Wooden Sofa",
+        "image":"https://www.ulcdn.net/images/products/700380/original/FNSF51BRCT3_-_main_1.jpg?1668496646",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":69760,
+        "discount":2099
+    },
+    {
+        "id":16,
+        "title":"Catty Leatherette Sofa",
+        "image":"https://www.ulcdn.net/images/products/700659/original/FNSF53BRCA3_-_main_1.jpg?1668496739",
+        "brand":"By Stories",
+        "material":"Leather",
+        "capacity":2,
+        "price":69069,
+        "discount":2069
+    },
+    {
+        "id":17,
+        "title":"Ease Fabric Sofa (Saddle Brown)",
+        "image":"https://www.ulcdn.net/images/products/751202/original/FNSF51BREA3A_-_main_1.jpg?1677759334",
+        "brand":"By Duroflex",
+        "material":"Fabric",
+        "capacity":3,
+        "price":33005,
+        "discount":1201
+    },
+    {
+        "id":18,
+        "title":"Zivo Fabric Sofa (Dusky Pink)",
+        "image":"https://www.ulcdn.net/images/products/713027/original/FNSF51DPZV3_-_main_1.jpg?1671106972",
+        "brand":"By Duroflex",
+        "material":"Fabric",
+        "capacity":2,
+        "price":41805,
+        "discount":2901
+    },
+    {
+        "id":19,
+        "title":"Henders Half Leather Sofa",
+        "image":"https://www.ulcdn.net/images/products/591634/original/FNSF52HETA3_-_main_1.jpg?1656075695",
+        "brand":"By Duroflex",
+        "material":"Half Leather",
+        "capacity":2,
+        "price":49800,
+        "discount":1801
+    },
+    {
+        "id":20,
+        "title":"Marissa Half Leather Sofa",
+        "image":"https://www.ulcdn.net/images/products/591669/original/FNSF52MRBK3_-_main_1.jpg?1656075710",
+        "brand":"By Duroflex",
+        "material":"Half Leather",
+        "capacity":1,
+        "price":65800,
+        "discount":31801
+    },
+    {
+        "id":21,
+        "title":"Ankara Wooden Sofa (Matty Yellow)",
+        "image":"https://www.ulcdn.net/images/products/664415/original/FNSF51AAYL3_-_main_1.png?1661172947",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":62800,
+        "discount":31001
+    }
+  ],
+  "Living"  : [
+    {
+        "id":22,
+        "title":"Carven Lounge Chair In Dark Grey Fabric",
+        "image":"https://www.ulcdn.net/images/products/162605/slide/666x363/Carven_Lounge_Chair_Grey_1.jpg?1514963528",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":1,
+        "price":15605,
+        "discount":701
+    },
+    {
+        "id":23,
+        "title":"1956 Lounge Chair In Black Leatherette",
+        "image":"https://www.ulcdn.net/images/products/82585/slide/666x363/1956_Lounge___Ottoman_Replica_Black_01.jpg?1459228941",
+        "brand":"Urban Ladder",
+        "material":"Fabric",
+        "capacity":1,
+        "price":67098,
+        "discount":3264
+    },
+    {
+        "id":24,
+        "title":"Contour Lounge Chair In Patchwork",
+        "image":"https://www.ulcdn.net/images/products/115893/slide/666x363/Contour_Chair_Ottoman_Replica_Patch_Work_03_4.jpg?1476985813",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":16560,
+        "discount":2990
+    },
+    {
+        "id":25,
+        "title":"Genoa Lounge Chair In Peach Floral Velvet Fabric",
+        "image":"https://www.ulcdn.net/images/products/82585/slide/666x363/1956_Lounge___Ottoman_Replica_Black_01.jpg?1459228941",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":1,
+        "price":85605,
+        "discount":4111
+    },
+    {
+        "id":26,
+        "title":"Begum Lounge Chair In Green Fabric",
+        "image":"https://www.ulcdn.net/images/products/546187/slide/666x363/FVSTCH51GR18258_1.jpg?1652164509",
+        "brand":"Urban Ladder",
+        "material":"Fabric",
+        "capacity":1,
+        "price":65105,
+        "discount":40011
+    },
+    {
+        "id":27,
+        "title":"Madonna Lounge Chair In White Leatherette",
+        "image":"https://www.ulcdn.net/images/products/414284/slide/666x363/Madonna_Swivel_Lounge_Chair_White_2.jpg?1635252358",
+        "brand":"By Arra",
+        "material":"Leather",
+        "capacity":1,
+        "price":15305,
+        "discount":1001
+    },
+    {
+        "id":28,
+        "title":"Hagen Lounge Chair In Cobalt Fabric",
+        "image":"https://www.ulcdn.net/images/products/134018/slide/666x363/Hagen_Cobalt_revised_1.jpg?1578889220",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":1,
+        "price":19005,
+        "discount":1301
+    },
+    {
+        "id":29,
+        "title":"Morgen Lounge Chair In Olive Vines Fabric",
+        "image":"https://www.ulcdn.net/images/products/162186/slide/666x363/Morgen_Wing_Chair_Olive_1.jpg?1514361346",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":1,
+        "price":21605,
+        "discount":1301
+    },
+    {
+        "id":30,
+        "title":"Ikeda Lounge Chair In Olive Green",
+        "image":"https://www.ulcdn.net/images/products/334967/slide/666x363/Ikeda_Armchair_Teak_Finish_Olive_Green_0.jpg?1619170998",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":25605,
+        "discount":1381
+    },
+    {
+        "id":31,
+        "title":"Kivaha Square Solid Wood Coffee Table In Walnut Morocco Lattice Beige",
+        "image":"https://www.ulcdn.net/images/products/140038/slide/666x363/Kivaha_4_Seater_CF_Table_Set_WLLB_01.jpg?1487065487",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":20005,
+        "discount":981
+    },
+    {
+        "id":32,
+        "title":"Adele Rectangular Engineered Wood Coffee Table In Classic Walnut Finish",
+        "image":"https://www.ulcdn.net/images/products/579154/slide/666x363/Adele_Compact_coffee_table_Classic_Walnuta.jpg?1655454813",
+        "brand":"By Woodcasa",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":3005,
+        "discount":139
+    },
+    {
+        "id":33,
+        "title":"Dyson Rectangular Metal Coffee Table In Walnut Finish",
+        "image":"https://www.ulcdn.net/images/products/119971/slide/666x363/Dyson_Merch.jpg?1583245567",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":15760,
+        "discount":999
+    },
+    {
+        "id":34,
+        "title":"Seoul Wooden Sofa",
+        "image":"https://www.ulcdn.net/images/products/700418/original/FNSF51CRSE3_-_main_2.jpg?1668496659",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":26760,
+        "discount":999
+    },
+    {
+        "id":35,
+        "title":"Altura Rectangular Solid Wood Coffee Table In Two Tone Finish",
+        "image":"https://www.ulcdn.net/images/products/53400/slide/666x363/Altura_Coffee_Table_Two_Tone_01.jpg?1462882935",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":14962,
+        "discount":837
+    },
+    {
+        "id":36,
+        "title":"Zephyr Rectangular Solid Wood Coffee Table in Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/293614/slide/666x363/Zephyr_New_Slide.jpg?1609155582",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":9760,
+        "discount":699
+    },
+    {
+        "id":37,
+        "title":"Baltoro Engineering Wood Free Standing TV Unit In White Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/156873/slide/666x363/ewrdf.jpg?1507801465",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":22069,
+        "discount":1069
+    },
+    {
+        "id":38,
+        "title":"Fenily Engineered Wood Free Standing TV Unit In Wenge & White Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/565833/slide/666x363/FVSGAV33WW20528_1.jpg?1654238693",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":14005,
+        "discount":701
+    },
+    {
+        "id":39,
+        "title":"Madden 14 Pair Shoe Rack In Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/332552/slide/666x363/Madden_Shoe_Cabinet_Teak_1.jpg?1616674316",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":14805,
+        "discount":901
+    },
+    {
+        "id":40,
+        "title":"Ace 18 Pair Engineered Wood Shoe Rack In Matte Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/696621/slide/666x363/a.jpg?1676030347",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":6800,
+        "discount":501
+    },
+    {
+        "id":41,
+        "title":"Alberto Solid Wood Bookshelf In Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/153009/slide/666x363/Alberto_Bookshelf_Mahogany_1.jpg?1502342551",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":23323,
+        "discount":1120
+    },
+    {
+        "id":42,
+        "title":"Iwaki Bookshelf/Display Cabinet With Glass Door",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/292048/slide/666x363/Iwaki_Bookshelf_With_Glass_Door_Columbian_Walnut_1.jpg?1581416543",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":23800,
+        "discount":1301
+    }
+  ],
+  "Bedroom"  : [
+    {
+        "id":43,
+        "title":"Zoey Engineered Wood Queen Size Bed in Classic Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/480956/slide/666x363/Zoey_Non-_Storage_Bed_Queen_Classic_Walnut_1.jpg?1647675346",
+        "brand":"By Woodcasa",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":11605,
+        "discount":1801
+    },
+    {
+        "id":44,
+        "title":"Faroe Engineered Wood Queen Size Drawer Storage Upholstered Bed in Grey Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/428223/slide/666x363/Faroe_upholstered_stor_bed_grey_queen_1.jpg?1637242399",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":30462,
+        "discount":1264
+    },
+    {
+        "id":45,
+        "title":"Covelo Engineered Wood Single Box Storage Bed In Rustic Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/701109/slide/666x363/Covelo_single_storage_Bed_Rustik_Walnut_1.jpg?1668596885",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":16860,
+        "discount":1990
+    },
+    {
+        "id":46,
+        "title":"Stanhope Engineered Wood King Size Drawer Storage Upholstered Bed in Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/149916/slide/666x363/0.jpg?1548906914",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":3,
+        "price":45605,
+        "discount":2110
+    },
+    {
+        "id":47,
+        "title":"Nerja Solid Wood Single Non Storage Bed in Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/648178/slide/666x363/Nerja_Bed_1.jpg?1659526381",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":8105,
+        "discount":1011
+    },
+    {
+        "id":48,
+        "title":"Caprica Solid Wood Queen Size Non Storage Bed in Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/232960/slide/666x363/Caprica_Bed_1.jpg?1546576420",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":30305,
+        "discount":2001
+    },
+    {
+        "id":49,
+        "title":"Holmebrook Engineered Wood King Size Drawer Storage Upholstered Bed in Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/293164/slide/666x363/Holmebrook_Upholstered_Bed_MBK_00.jpg?1583939963",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":45005,
+        "discount":4301
+    },
+    {
+        "id":50,
+        "title":"Stanhope Engineered Wood King Size Drawer Storage Upholstered Bed In Finish",
+        "image":"https://www.ulcdn.net/images/products/368637/original/FNSF51DJMG3_-_main_1.jpg?1628265259",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":3,
+        "price":55605,
+        "discount":3301
+    },
+    {
+        "id":51,
+        "title":"Ohio Solid Wood Queen Size Non Storage Bed In Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/293508/slide/666x363/Ohio_Low_Bed_Teak_Finish_1.jpg?1585630644",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":40605,
+        "discount":4301
+    },
+    {
+        "id":52,
+        "title":"Stockholm Solid Wood King Size Drawer Storage Bed In Mahogany Finish",
+        "image":"https://www.ulcdn.net/images/products/117022/slide/666x363/Stockholm_Storage_Bed_Mahogany_Finish_03.jpg?1477417657",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":55005,
+        "discount":2381
+    },
+    {
+        "id":53,
+        "title":"Florence Solid Wood Queen Size Drawer Storage Bed in Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/222578/slide/666x363/Florence_Bed_1.jpg?1543832580",
+        "brand":"By Woodcasa",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":51005,
+        "discount":1301
+    },
+    {
+        "id":54,
+        "title":"Valencia Solid Wood King Size Drawer Storage Bed In Teak Finish",
+        "image":"https://www.ulcdn.net/images/products/219584/slide/666x363/Valencia_King_Bed_01.jpg?1541589116",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":3,
+        "price":51760,
+        "discount":999
+    },
+    {
+        "id":55,
+        "title":"Terence Solid Wood Queen Size Box Storage Bed in Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/230356/slide/666x363/Terence_Storage_Bed_1.jpg?1545210804",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":56760,
+        "discount":6999
+    },
+    {
+        "id":56,
+        "title":"Merritt Trundle Bed",
+        "image":"https://www.ulcdn.net/images/products/235581/slide/666x363/Merritt_Trundle_Teak_1.jpg?1590133762",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":10962,
+        "discount":1337
+    },
+    {
+        "id":57,
+        "title":"Boston Single Bed (Solid Wood)",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/158575/slide/666x363/Boston_Single_Bed_with_Trundle_Teak_1.jpg?1510029234",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":29760,
+        "discount":2099
+    },
+    {
+        "id":58,
+        "title":"Yorktown Single Bed",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/82344/slide/666x363/YORKTOWN_SINGLE_BED_%28MAHOGANY_FINISH%29_03.jpg?1459164347",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":19069,
+        "discount":2069
+    },
+    {
+        "id":59,
+        "title":"Corner Office Engineered Wood Drawer Storage Bed In Caribe Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/356423/slide/666x363/Corner_Office_Bed_Caribe_Caribe_1.jpg?1626891904",
+        "brand":"By Duroflex",
+        "material":"Fabric",
+        "capacity":1,
+        "price":30005,
+        "discount":1201
+    },
+    {
+        "id":60,
+        "title":"Megatron Engineered Wood Cabinet storage Bed in Dark Grey Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/356496/slide/666x363/Megatron_Bed_Dark_Grey_1.jpg?1626891984",
+        "brand":"By Duroflex",
+        "material":"Fabric",
+        "capacity":2,
+        "price":54805,
+        "discount":2901
+    },
+    {
+        "id":61,
+        "title":"Playdate Engineered Wood Box Storage Bed In White Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/349663/slide/666x363/Playdate_Storage_Bed_White_168_1.jpg?1624434514",
+        "brand":"By Duroflex",
+        "material":"Fabric",
+        "capacity":1,
+        "price":52800,
+        "discount":1801
+    },
+    {
+        "id":62,
+        "title":"Marissa Half Leather Sofa",
+        "image":"https://www.ulcdn.net/images/products/591669/original/FNSF52MRBK3_-_main_1.jpg?1656075710",
+        "brand":"By Duroflex",
+        "material":"Half Leather",
+        "capacity":1,
+        "price":65800,
+        "discount":31801
+    },
+    {
+        "id":63,
+        "title":"Sweet Sail Engineered Wood Box Storage Bed In White And Oak Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/356547/slide/666x363/Sweet_Sail_Bed_White_And_Oak_1.jpg?1626892011",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":35800,
+        "discount":1901
+    }
+  ],
+  "Dining"  : [
+    {
+        "id":64,
+        "title":"Diner Solid Wood 6 Seater Dining Table with Set of Chairs in Golden Oak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/147060/slide/666x363/Diner_Set_With_Bench_GO_1.jpg?1493052932",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":6,
+        "price":41605,
+        "discount":4801
+    },
+    {
+        "id":65,
+        "title":"Arabia Capra Solid Wood 6 Seater Dining Table With Set Of Chairs In Teak Finish",
+        "image":"https://www.ulcdn.net/images/products/121993/slide/666x363/Arabia_Capra_6_Seat_Dining_Table_Set_Teak_Finish_01_IMG_9779_SPR_IM_2.jpg?1477556084",
+        "brand":"Urban Ladder",
+        "material":"Fabric",
+        "capacity":6,
+        "price":50462,
+        "discount":5264
+    },
+    {
+        "id":66,
+        "title":"Diner Solid Wood 6 Seater Dining Table With Set Of 6 Chairs In Dark Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/162928/slide/666x363/Diner_6_Seater_Dining_Table_Set_With_Upholstered_Chairs_1.jpg?1515478997",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":6,
+        "price":36860,
+        "discount":3990
+    },
+    {
+        "id":67,
+        "title":"Caribu 4 to 6 Extendable - Ingrid (Leatherette) 6 Seater Dining Table Set",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/290791/slide/666x363/Caribu_Ingrid_White_6_Seater_1.jpg?1574835538",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":6,
+        "price":75605,
+        "discount":4111
+    },
+    {
+        "id":68,
+        "title":"Farina Half Leather Sofa (Italian Leather)",
+        "image":"https://www.ulcdn.net/images/products/58283/original/FNSF52FABG3_-_main_1.jpg?1464079496",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":85105,
+        "discount":4011
+    },
+    {
+        "id":69,
+        "title":"Wesley Dalla Solid Wood 6 Seater Dining Table With Set Of Chairs In Dark Walnut Finish",
+        "image":"https://www.ulcdn.net/images/products/157782/slide/666x363/Wesley_Dalla_6_Seater_Dining_Table_Set_Grey_1.jpg?1508904701",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":6,
+        "price":55305,
+        "discount":5001
+    },
+    {
+        "id":70,
+        "title":"Caribu 6 to 8 Extendable - Doris (Fabric) 6 Seater Dining Table Set",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/218943/slide/666x363/a.jpg?1548832289",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":6,
+        "price":90005,
+        "discount":5301
+    },
+    {
+        "id":71,
+        "title":"Taarkashi Solid Wood 6 Seater Dining Table with Set of Chairs in American Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/253233/slide/666x363/TaarkashiDTSB1.jpg?1549343475",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":6,
+        "price":95605,
+        "discount":5501
+    },
+    {
+        "id":72,
+        "title":"Brighton Kerry Solid Wood 6 Seater Dining Table With Set Of Chairs In Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/196443/slide/666x363/Brighton_Large_Kerry_6_Seater_Dining_Table_Set_TK_WB_1.jpg?1529906213",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":48605,
+        "discount":4301
+    },
+    {
+        "id":73,
+        "title":"Brighton Kerry Solid Wood 6 Seater Dining Table With Set Of Chairs In Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/196443/slide/666x363/Brighton_Large_Kerry_6_Seater_Dining_Table_Set_TK_WB_1.jpg?1529906213",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":6,
+        "price":35005,
+        "discount":1381
+    },
+    {
+        "id":74,
+        "title":"Taarkashi Solid Wood 6 Seater Dining Table with Set of Chairs in American Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/240400/slide/666x363/TaarkashiDTS1.jpg?1548241880",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":6,
+        "price":91005,
+        "discount":1301
+    },
+    {
+        "id":75,
+        "title":"Farina Half Leather Sectional Sofa",
+        "image":"https://www.ulcdn.net/images/products/313543/original/FNSF52FACA3L_-_main_1.png?1611552737",
+        "brand":"Urban Ladder",
+        "material":"Leather",
+        "capacity":6,
+        "price":145760,
+        "discount":6999
+    },
+    {
+        "id":76,
+        "title":"Arabia Solid Wood 6 Seater Dining Table with Set of Chairs in Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/631349/slide/666x363/Brighton-Fabio_6_Seater_Dining_Set_yellow_mahogany_1.jpg?1658486725",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":6,
+        "price":56760,
+        "discount":4099
+    },
+    {
+        "id":77,
+        "title":"Caledonia Solid Wood Bar Cabinet in Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/280023/slide/666x363/Caledonia_Bar_Unit_Finish_Teak_1.jpg?1556274250",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":50962,
+        "discount":2337
+    },
+    {
+        "id":78,
+        "title":"Ryden Free Standing Bar Trolley in Natural Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/648338/slide/666x363/a.jpg?1659536992",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":19760,
+        "discount":3099
+    },
+    {
+        "id":79,
+        "title":"Zoya Solid Wood Bar Cabinet in Melamine Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/364958/slide/666x363/Zoey_Bar_Cabinet_1.jpg?1628159634",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":19069,
+        "discount":6069
+    },
+    {
+        "id":80,
+        "title":"Kassel Solid Wood Bar Cabinet in Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/357913/slide/666x363/Kassel_Wine_Rack___Bottle_Holder_Teak_Finish_1.jpg?1626934302",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":3005,
+        "discount":201
+    },
+    {
+        "id":81,
+        "title":"Alden Solid Wood Free Standing Bar Cabinet in Polished Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/560375/slide/666x363/FVBRBU62WA20143_1.jpg?1653896513",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":5805,
+        "discount":901
+    },
+    {
+        "id":82,
+        "title":"Riveria Solid Wood Free Standing Bar Cabinet in Honey Oak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/598763/slide/666x363/Riveria_honey_oak_1.jpg?1656497249",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":39800,
+        "discount":801
+    },
+    {
+        "id":83,
+        "title":"Riveria Solid Wood Free Standing Bar Cabinet In Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/587297/slide/666x363/Riveria_Solid_Wood_Bar_Cabinet_Mahogany_1.jpg?1655972203",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":45800,
+        "discount":51801
+    },
+    {
+        "id":84,
+        "title":"Caravan Solid Wood Bar Cabinet in Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/332009/slide/666x363/Caravan_Trolley_Bar_Cabinet_Teak_8.jpg?1616147911",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":32800,
+        "discount":3100
+    }
+  ],
+  "Storage"  : [
+    {
+        "id":85,
+        "title":"Zoey Engineered Wood 3 Door Wardrobe in Classic Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/481100/slide/666x363/Zoey_3_Door_Wardrobe_00.jpg?1647680772",
+        "brand":"By Woodcasa",
+        "material":"Solid Wood",
+        "capacity":3,
+        "price":24605,
+        "discount":6801
+    },
+    {
+        "id":86,
+        "title":"Bocado Engineered Wood 3 Door Wardrobe In Columbian Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/290954/slide/666x363/Bocado_Columbian_Walnut_3_Door_1.jpg?1575882265",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":3,
+        "price":50462,
+        "discount":15264
+    },
+    {
+        "id":87,
+        "title":"Diner Solid Wood 6 Seater Dining Table With Set Of 6 Chairs In Dark Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/703047/slide/666x363/a.jpg?1669222660",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":26860,
+        "discount":6990
+    },
+    {
+        "id":88,
+        "title":"Bennis Engineered Wood 2 Door Wardrobe Without Mirror in Dark Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/290791/slide/666x363/Caribu_Ingrid_White_6_Seater_1.jpg?1574835538",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":25605,
+        "discount":7111
+    },
+    {
+        "id":89,
+        "title":"Avalon Engineered Wood 2 Door Wardrobe in Chocolate Oak And Silver Grey Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/625699/slide/666x363/Avalon_Sliding_Door_Wardrobe_Choc_Oak_Sil_Gy_1.jpg?1658148748",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":85105,
+        "discount":14011
+    },
+    {
+        "id":90,
+        "title":"Magellan Solid Wood 2 Door Wardrobe In Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/332769/slide/666x363/Magellan_Wardrobe_Finish_Teak_1.jpg?1617175879",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":55305,
+        "discount":15001
+    },
+    {
+        "id":91,
+        "title":"Zephyr Solid Wood 2 Door Wardrobe in Mahogany Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/589428/slide/666x363/Zephyr_Wardrobe_Mahagony_1.jpg?1674553734",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":2,
+        "price":40015,
+        "discount":5301
+    },
+    {
+        "id":92,
+        "title":"Freedom Plastic 2 Door Wardrobe in Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/591503/slide/666x363/FVSGCB81BR20986_1.jpg?1656071449",
+        "brand":"By Arra",
+        "material":"plastic",
+        "capacity":2,
+        "price":5605,
+        "discount":501
+    },
+    {
+        "id":93,
+        "title":"Freedom Mini Plastic 2 Door Wardrobe in Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/591446/slide/666x363/FVSGCB81BL20998_1.jpg?1656071425",
+        "brand":"By Arra",
+        "material":"plastic",
+        "capacity":2,
+        "price":8605,
+        "discount":4301
+    },
+    {
+        "id":94,
+        "title":"Freedom Big Plastic 2 Door Wardrobe in Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/593753/slide/666x363/FVSGCB81BR20971_1.jpg?1656324718",
+        "brand":"By Arra",
+        "material":"plastic",
+        "capacity":2,
+        "price":13005,
+        "discount":1381
+    },
+    {
+        "id":95,
+        "title":"Freedom Mini Plastic 2 Door Wardrobe in Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/593755/slide/666x363/FVSGCB81BR20995_1.jpg?1656324720",
+        "brand":"By Woodcasa",
+        "material":"plastic",
+        "capacity":2,
+        "price":11005,
+        "discount":5301
+    },
+    {
+        "id":96,
+        "title":"Magna Metal 2 Door Wardrobe in Grey Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/699168/slide/666x363/FVSGCB61GY25945_1.jpg?1668081324",
+        "brand":"Urban Ladder",
+        "material":"Metal",
+        "capacity":2,
+        "price":25760,
+        "discount":6999
+    },
+    {
+        "id":97,
+        "title":"Small Office Almirah in Grey Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/697825/slide/666x363/FVSGDR61GY24437_1.jpg?1667379430",
+        "brand":"By Stories",
+        "material":"Metal",
+        "capacity":2,
+        "price":26760,
+        "discount":4099
+    },
+    {
+        "id":98,
+        "title":"Minerva Engineered Wood Kids Bookshelf In Barbie Pink Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/393639/slide/666x363/Minerva_Bookshelf_Barbie_Pink_1.jpg?1632287189",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":20962,
+        "discount":2337
+    },
+    {
+        "id":99,
+        "title":"Astra Engineered Wood Kids Bookshelf in Lime Yellow Azure Blue Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/392572/slide/666x363/Astra_Bookshelf_Azure_Blue_1.jpg?1632285642",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":29760,
+        "discount":3099
+    },
+    {
+        "id":100,
+        "title":"Celestia Engineered Wood Kids Bookshelf in Lavender Purple Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/392684/slide/666x363/Celestia_Bookshelf_Lavender_Purple_1.jpg?1632286104",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":19069,
+        "discount":3969
+    },
+    {
+        "id":101,
+        "title":"Camila Engineered Kids Bookshelf in Mango Yellow Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/392576/slide/666x363/Camila_Bookshelf_Mango_Yellow_1.jpg?1632285644",
+        "brand":"By Duroflex",
+        "material":"Metal",
+        "capacity":1,
+        "price":23005,
+        "discount":2201
+    },
+    {
+        "id":102,
+        "title":"Wall E Engineered Wood Kids Bookshelf In Silver Grey Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/356766/slide/666x363/Wall_E_Storage_1.jpg?1626892418",
+        "brand":"By Duroflex",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":15805,
+        "discount":2901
+    }
+  ],
+  "Study"  : [
+    {
+        "id":103,
+        "title":"Twain Engineered Wood Study Table In Cherry Melamine Finish",
+        "image":"https://www.ulcdn.net/images/products/223894/slide/666x363/Twain_Study_Table_1.jpg?1544673340",
+        "brand":"By Woodcasa",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":14605,
+        "discount":3801
+    },
+    {
+        "id":104,
+        "title":"Truman Solid Wood Study Table in Teak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/201809/slide/666x363/Truman_Study_Table_Creamy_Crust_Finish_Teak_merc.jpg?1624608693",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":25462,
+        "discount":10264
+    },
+    {
+        "id":105,
+        "title":"Tylor Engineered Wood Study Table in Classic Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/579152/slide/666x363/Taylor_Storage_Study_Table_Classic_WalnutLa.jpg?1655450584",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":16860,
+        "discount":9990
+    },
+    {
+        "id":106,
+        "title":"Austen Solid Wood Study Table in Two Tone Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/116302/slide/666x363/Austen_Study_Desk_01.jpg?1573450044",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":15605,
+        "discount":7111
+    },
+    {
+        "id":107,
+        "title":"Zen Engineered Wood Study Table in White Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/447424/slide/666x363/Zendon_Study_Table_1.jpg?1638947577",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":15105,
+        "discount":4011
+    },
+    {
+        "id":108,
+        "title":"Sidney Engineered Wood Study Table in Rustic Oak Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/422829/slide/666x363/Sidney_Study_Table_Rustik_Oak_1.jpg?1636954615",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":35305,
+        "discount":10001
+    },
+    {
+        "id":109,
+        "title":"Allan Metal Study Table In Cherry Walnut Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/299743/slide/666x363/Allan_Study_01.jpg?1599547725",
+        "brand":"By Arra",
+        "material":"Metal",
+        "capacity":1,
+        "price":9015,
+        "discount":301
+    },
+    {
+        "id":110,
+        "title":"Niam Metal Study Table in Wood Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/359451/slide/666x363/Niam_Large_Study_Table_Dark_Brown_1.jpg?1627235282",
+        "brand":"By Arra",
+        "material":"Metal",
+        "capacity":1,
+        "price":25605,
+        "discount":2501
+    },
+    {
+        "id":111,
+        "title":"Kuzma Metal Study Table in Grey Finish",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/359433/slide/666x363/Kuzma_Study_Table_White_1.jpg?1627235272",
+        "brand":"By Arra",
+        "material":"Metal",
+        "capacity":2,
+        "price":38605,
+        "discount":4301
+    },
+    {
+        "id":112,
+        "title":"Stylish Swivel Fabric Study Chair in Blue / Black Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/354263/slide/666x363/Durwin_Gaming_Chair_1.jpg?1626756038",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":1,
+        "price":13005,
+        "discount":4381
+    },
+    {
+        "id":113,
+        "title":"Adiko Swivel Fabric Study Chair in Cream / Black Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/354139/slide/666x363/Ashle_Gaming_Chair_1.jpg?1626755788",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":1,
+        "price":11005,
+        "discount":1301
+    },
+    {
+        "id":114,
+        "title":"Kasy Swivel Fabric Study Chair in Grey / Black Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/354320/slide/666x363/Kasy_Gaming_Chair_1.jpg?1626756158",
+        "brand":"Urban Ladder",
+        "material":"Fabric",
+        "capacity":1,
+        "price":15760,
+        "discount":6999
+    },
+    {
+        "id":115,
+        "title":"Venturi Metal Study Chair In Ash Grey Colour",
+        "image":"https://www.ulcdn.net/images/products/119610/slide/666x363/Venturi_New_AshGrey_4.jpg?1598416329",
+        "brand":"By Stories",
+        "material":"Metal",
+        "capacity":1,
+        "price":16760,
+        "discount":7099
+    },
+    {
+        "id":116,
+        "title":"Charles Metal Study Chair in Black Colour",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/497794/slide/666x363/Charles_Metal_Study_Chair_In_Black_Colour_1.jpg?1674560838",
+        "brand":"Urban Ladder",
+        "material":"Metal",
+        "capacity":1,
+        "price":20962,
+        "discount":8337
+    }
+  ],
+  "Lighting"  : [
+    {
+        "id":117,
+        "title":"Diego Floor Lamp",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/203313/slide/666x363/Diego_Floor_Lamp_1.jpg?1535103262",
+        "brand":"By Woodcasa",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":9605,
+        "discount":3801
+    },
+    {
+        "id":118,
+        "title":"Freeda Natural Linen Shade Floor Lamp",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/488415/slide/666x363/VALTFL62TK12264_1.jpg?1649155293",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":5462,
+        "discount":1264
+    },
+    {
+        "id":119,
+        "title":"Yarine Floor Lamp",
+        "image":"https://www.ulcdn.net/images/products/338758/product/Yarine_Floor_Lamp_Walnut_LP.JPG?1621322451",
+        "brand":"By Stories",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":6860,
+        "discount":3990
+    },
+    {
+        "id":120,
+        "title":"Claudette White Cotton Shade Floor Lamp",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/494057/slide/666x363/VALTFL61ML12581_1.jpg?1649488793",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":5605,
+        "discount":2111
+    },
+    {
+        "id":121,
+        "title":"Columbia Floor Lamp",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/203305/slide/666x363/Columbia_Table_Lamp_1.jpg?1535103233",
+        "brand":"Urban Ladder",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":15105,
+        "discount":7011
+    },
+    {
+        "id":122,
+        "title":"Missouri Tripod Spotlight",
+        "image":"https://www.ulcdn.net/images/products/21237/slide/666x363/Missouri_Tripod_Floor_Lamp_04_IMG_0205.jpg?1424158393",
+        "brand":"By Arra",
+        "material":"Solid Wood",
+        "capacity":1,
+        "price":25305,
+        "discount":10001
+    },
+    {
+        "id":123,
+        "title":"Cassia White Iron & Cloth Shade Floor Lamp With Metal Base",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/625522/slide/666x363/VALTFL85GD510343_1.JPG?1658144101",
+        "brand":"By Arra",
+        "material":"Metal",
+        "capacity":1,
+        "price":9015,
+        "discount":5301
+    },
+    {
+        "id":124,
+        "title":"Klimt Floor Lamp",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/328080/slide/666x363/Klimt_Floor_1.jpg?1614678547",
+        "brand":"By Arra",
+        "material":"Metal",
+        "capacity":1,
+        "price":15605,
+        "discount":5501
+    },
+    {
+        "id":125,
+        "title":"Rhea Floor Lamp Black",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/327928/slide/666x363/Rhea_Floor_Lamp_Black_1.jpg?1614678009",
+        "brand":"By Arra",
+        "material":"Metal",
+        "capacity":1,
+        "price":8605,
+        "discount":301
+    },
+    {
+        "id":126,
+        "title":"Oberon Pendant Light",
+        "image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/340445/slide/666x363/Oberon_Pendant_Light__Dark_Wood58_1.jpg?1623159568",
+        "brand":"By Arra",
+        "material":"Fabric",
+        "capacity":1,
+        "price":13005,
+        "discount":8381
+    },
+    {
+        "id":127,
+        "title":"Jase Beige Bamboo Cluster Hanging Light",
+        "image":"https://www.ulcdn.net/images/products/613278/product/VALTLM14BE59002_LP.jpg?1657341262",
+        "brand":"By Woodcasa",
+        "material":"Fabric",
+        "capacity":1,
+        "price":4005,
+        "discount":1301
+    },
+    {
+        "id":128,
+        "title":"Keith Beige Fiber Hanging Light",
+        "image":"https://www.ulcdn.net/images/products/613292/product/VALTLM14BE59124_LP.jpg?1657341270",
+        "brand":"Urban Ladder",
+        "material":"Fabric",
+        "capacity":1,
+        "price":5760,
+        "discount":3999
+    },
+    {
+        "id":129,
+        "title":"Armine Hanging Lamp",
+        "image":"https://www.ulcdn.net/images/products/338680/product/Armine_Hanging_Lamp_Nickle_LP.JPG?1621322689",
+        "brand":"By Stories",
+        "material":"Metal",
+        "capacity":1,
+        "price":16760,
+        "discount":7099
+    },
+    {
+        "id":130,
+        "title":"Louvre Hanging Lamp Small",
+        "image":"https://www.ulcdn.net/images/products/302424/product/Louvre_Hanging_Lamp_LP.jpg?1603872801",
+        "brand":"Urban Ladder",
+        "material":"Metal",
+        "capacity":1,
+        "price":15962,
+        "discount":8337
+    }
+  ],
+  "users" :[
+    {
+      "id" :1,
+      "firstName": "Tony",
+      "lastName" : "Stark",
+      "email": "ironman@gmail.com",
+      "password": "jarvis",
+      "mobile" : 9876543210
+    }
+  ],
+  "orders" :[],
+  "random" :[]
+}
