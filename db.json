@@ -8,7 +8,8 @@
         "material":"Fabric",
         "capacity":3,
         "price":51605,
-        "discount":1801
+        "discount":1801,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     },
     {
         "id":2,
@@ -18,7 +19,8 @@
         "material":"Leather",
         "capacity":3,
         "price":130462,
-        "discount":6264
+        "discount":6264,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":3,
@@ -28,7 +30,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":76860,
-        "discount":3990
+        "discount":3990,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":4,
@@ -38,7 +41,8 @@
         "material":"Leather",
         "capacity":2,
         "price":85605,
-        "discount":4111
+        "discount":4111,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":5,
@@ -48,7 +52,8 @@
         "material":"Leather",
         "capacity":2,
         "price":85105,
-        "discount":4011
+        "discount":4011,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     },
     {
         "id":6,
@@ -58,7 +63,8 @@
         "material":"Fabric",
         "capacity":2,
         "price":35305,
-        "discount":1001
+        "discount":1001,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":7,
@@ -68,7 +74,8 @@
         "material":"Fabric",
         "capacity":3,
         "price":95005,
-        "discount":4301
+        "discount":4301,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":8,
@@ -78,7 +85,8 @@
         "material":"Fabric",
         "capacity":4,
         "price":85605,
-        "discount":3301
+        "discount":3301,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     },
     {
         "id":9,
@@ -88,7 +96,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":45605,
-        "discount":2301
+        "discount":2301,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":10,
@@ -98,7 +107,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":35005,
-        "discount":1381
+        "discount":1381,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":11,
@@ -108,7 +118,8 @@
         "material":"Fabric",
         "capacity":3,
         "price":41005,
-        "discount":1301
+        "discount":1301,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     },
     {
         "id":12,
@@ -118,7 +129,8 @@
         "material":"Leather",
         "capacity":3,
         "price":145760,
-        "discount":6999
+        "discount":6999,
+        "desc":"Adonica designs Sofas, Sofa Sets, L shape Sofa Set, Sectional Sofas, Sofa cum beds, Recliner Sofas, Beds etc. Our sofas looks elegant and is easy to maintain. All Adonica Furniture is manufactured and designed in India. All our products are durability-tested with a 100kg on each seating to offer maximum level of comfort. Rigorously checked with 30+ quality tests. Our fabric/leatherette upholstery boasts of high tensile strength which makes it pilling resistant and keeps the color from fading over time even after rubbing or washing. To ensure your peace of mind, all ours products comes with a 1-year limited warranty against manufacturing defects."
     },
     {
         "id":13,
@@ -128,7 +140,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":26760,
-        "discount":999
+        "discount":999,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":14,
@@ -138,7 +151,8 @@
         "material":"Leather",
         "capacity":3,
         "price":150962,
-        "discount":7337
+        "discount":7337,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":15,
@@ -148,7 +162,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":69760,
-        "discount":2099
+        "discount":2099,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     },
     {
         "id":16,
@@ -158,7 +173,8 @@
         "material":"Leather",
         "capacity":2,
         "price":69069,
-        "discount":2069
+        "discount":2069,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":17,
@@ -168,7 +184,8 @@
         "material":"Fabric",
         "capacity":3,
         "price":33005,
-        "discount":1201
+        "discount":1201,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":18,
@@ -178,7 +195,8 @@
         "material":"Fabric",
         "capacity":2,
         "price":41805,
-        "discount":2901
+        "discount":2901,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":19,
@@ -188,7 +206,8 @@
         "material":"Half Leather",
         "capacity":2,
         "price":49800,
-        "discount":1801
+        "discount":1801,
+        "desc":"This sofa’s frame is made from seasoned solid wood that undergoes a 3-step treatment for protection against borers and is kiln-dried for moisture control."
     },
     {
         "id":20,
@@ -198,7 +217,8 @@
         "material":"Half Leather",
         "capacity":1,
         "price":65800,
-        "discount":31801
+        "discount":31801,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     },
     {
         "id":21,
@@ -208,7 +228,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":62800,
-        "discount":31001
+        "discount":31001,
+        "desc":"This sofa is designed to combat sagging. The multi-density foam in the seat cushions reduces sagging due to prolonged use. A grid of polyfill pockets in the back cushions prevents the cushions from weighing down because of gravity."
     }
   ],
   "Living"  : [
@@ -220,7 +241,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":15605,
-        "discount":701
+        "discount":701,
+        "desc":"Carves a niche. A fusion of fabric and wood, the Carven lounge chair is a stunner. It’s been designed for long lounging sessions with your favourite book. For increased comfort, it sports a seat that slopes backwards. Legs and armrest made from Beech Wood Inner frame made of plastic Polyester upholstery Please refer to images for dimension details For indoor use only"
     },
     {
         "id":23,
@@ -230,7 +252,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":67098,
-        "discount":3264
+        "discount":3264,
+        "desc":"An icon in every sense of the word. The Lounge Chair & Ottoman (1956) designed by Charles E. and Ray E., is considered to be one of the most significant designs of the 20th century .This high quality replica pairs sleek moulded plywood with soft artificial leather to create an inviting form that's both beautiful and supremely comfortable. The chair and ottoman are both mounted on swivelling metal bases. Refer to the images for details of dimensions. For indoor use only"
     },
     {
         "id":24,
@@ -240,7 +263,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":16560,
-        "discount":2990
+        "discount":2990,
+        "desc":"Wing your way to comfort. The Genoa Wing Chair is the perfect spot for an afternoon snooze, or a date with a good book. The plush cushions let you sink in, while the enclosing wings give you a place to rest your head, and create a cozy cocoon around you.Refer to the images for details of dimensions. Foam Density: Regular-32D. Indoor use only. Extra cushions not included, unless mentioned otherwise."
     },
     {
         "id":25,
@@ -250,7 +274,8 @@
         "material":"Leather",
         "capacity":1,
         "price":85605,
-        "discount":4111
+        "discount":4111,
+        "desc":"Designed by Grant Featherston in 1951, the R160 Contour armchair is an iconic Australian example of Mid-Century Modern design. The flowing organic curves allow for the chair’s ‘negative’ space to conform perfectly to the ‘positive’ curves of the human body, making it supremely comfortable.The matching ottoman comes with the same button tufted upholstery and turned wooden legs Makes a beautiful accent piece for the living room, bedroom or anywhere else you need a great armchair. This high quality replica features a moulded plywood shell, Beech wood legs and a choice of White or Blue fabric upholstery While we do a thorough quality check at our end, for colour matching, a 5-10% colour variation may appear in a batch depending on production conditions. There might also be a slight variation in the position of the patchwork on the product you receive. Minor variations are completely normal, and in keeping with industry standards, we allow for a maximum of a 10% variation. Refer to images for dimensions"
     },
     {
         "id":26,
@@ -260,7 +285,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":65105,
-        "discount":40011
+        "discount":40011,
+        "desc":"Style and substance. The neat composition of the Rickman lounge chair makes for a compact, colourful and contemporary piece of design. Lean back against its high cushioned back and catch up on your reading or simply spend some time alone with your thoughts. Its slim, tapered legs add to its space saving feature, while also offering stability and support.Fabric upholstery. Steel legs with a wood finish. Please refer to images for dimension details .For indoor use only."
     },
     {
         "id":27,
@@ -270,7 +296,8 @@
         "material":"Leather",
         "capacity":1,
         "price":15305,
-        "discount":1001
+        "discount":1001,
+        "desc":"Arm in arm. This statement armchair is as pleasing to get comfy in as it is to look at. A classic design, Florence can be used as a side or study chair. The beautifully printed fabric brings a vibrant charm of its own. It quite smoothly elevates an space with its quiet sophistication. Pair it with Fiona Side & End Table to make a set Made from Sheesham wood. Crafted in fabric. Please refer to images for dimension details. For indoor use only."
     },
     {
         "id":28,
@@ -280,7 +307,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":19005,
-        "discount":1301
+        "discount":1301,
+        "desc":"Savour a relaxed lounge. Clean, elegant and modern in its design, our mid-century style Hayworth lounge chair comes with a cane backrest, upholstered seating and a striking brass ferrule foot. Versatile and memorable in its design, this chair is great in combination with a side-table.Made from Sheesham Wood. Clean with wet cloth. Avoid exposure to direct sunlight. Please refer to images for dimensions"
     },
     {
         "id":29,
@@ -290,7 +318,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":21605,
-        "discount":1301
+        "discount":1301,
+        "desc":"A faithful sidekick for homegrown adventures. You don’t always need to go out to seek adventure. Sometimes, all you need is the comfy Hastings and a favourite book. Sink into the plush Madonna swivel lounge chair, and travel the world, right at home. Made from leatherette upholstery. Available in 2 colours. Please refer to the images for dimension details. For indoor use only."
     },
     {
         "id":30,
@@ -300,7 +329,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":25605,
-        "discount":1381
+        "discount":1381,
+        "desc":"Wing your way to comfort. The Genoa Wing Chair is the perfect spot for an afternoon snooze, or a date with a good book. The plush cushions let you sink in, while the enclosing wings give you a place to rest your head, and create a cozy cocoon around you.Refer to the images for details of dimensions. Foam Density: Regular-32D. Indoor use only. Extra cushions not included, unless mentioned otherwise."
     },
     {
         "id":31,
@@ -310,7 +340,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":20005,
-        "discount":981
+        "discount":981,
+        "desc":"Carves a niche. A fusion of fabric and wood, the Carven lounge chair is a stunner. It’s been designed for long lounging sessions with your favourite book. For increased comfort, it sports a seat that slopes backwards. Legs and armrest made from Beech Wood Inner frame made of plastic Polyester upholstery Please refer to images for dimension details For indoor use only"
     },
     {
         "id":32,
@@ -320,7 +351,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":3005,
-        "discount":139
+        "discount":139,
+        "desc":"An icon in every sense of the word. The Lounge Chair & Ottoman (1956) designed by Charles E. and Ray E., is considered to be one of the most significant designs of the 20th century .This high quality replica pairs sleek moulded plywood with soft artificial leather to create an inviting form that's both beautiful and supremely comfortable. The chair and ottoman are both mounted on swivelling metal bases. Refer to the images for details of dimensions. For indoor use only"
     },
     {
         "id":33,
@@ -330,7 +362,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":15760,
-        "discount":999
+        "discount":999,
+        "desc":"Wing your way to comfort. The Genoa Wing Chair is the perfect spot for an afternoon snooze, or a date with a good book. The plush cushions let you sink in, while the enclosing wings give you a place to rest your head, and create a cozy cocoon around you.Refer to the images for details of dimensions. Foam Density: Regular-32D. Indoor use only. Extra cushions not included, unless mentioned otherwise."
     },
     {
         "id":34,
@@ -340,7 +373,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":26760,
-        "discount":999
+        "discount":999,
+        "desc":"Carves a niche. A fusion of fabric and wood, the Carven lounge chair is a stunner. It’s been designed for long lounging sessions with your favourite book. For increased comfort, it sports a seat that slopes backwards. Legs and armrest made from Beech Wood Inner frame made of plastic Polyester upholstery Please refer to images for dimension details For indoor use only"
     },
     {
         "id":35,
@@ -350,7 +384,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":14962,
-        "discount":837
+        "discount":837,
+        "desc":"An icon in every sense of the word. The Lounge Chair & Ottoman (1956) designed by Charles E. and Ray E., is considered to be one of the most significant designs of the 20th century .This high quality replica pairs sleek moulded plywood with soft artificial leather to create an inviting form that's both beautiful and supremely comfortable. The chair and ottoman are both mounted on swivelling metal bases. Refer to the images for details of dimensions. For indoor use only"
     },
     {
         "id":36,
@@ -360,7 +395,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":9760,
-        "discount":699
+        "discount":699,
+        "desc":"Carves a niche. A fusion of fabric and wood, the Carven lounge chair is a stunner. It’s been designed for long lounging sessions with your favourite book. For increased comfort, it sports a seat that slopes backwards. Legs and armrest made from Beech Wood Inner frame made of plastic Polyester upholstery Please refer to images for dimension details For indoor use only"
     },
     {
         "id":37,
@@ -370,7 +406,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":22069,
-        "discount":1069
+        "discount":1069,
+        "desc":"An icon in every sense of the word. The Lounge Chair & Ottoman (1956) designed by Charles E. and Ray E., is considered to be one of the most significant designs of the 20th century .This high quality replica pairs sleek moulded plywood with soft artificial leather to create an inviting form that's both beautiful and supremely comfortable. The chair and ottoman are both mounted on swivelling metal bases. Refer to the images for details of dimensions. For indoor use only"
     },
     {
         "id":38,
@@ -380,7 +417,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":14005,
-        "discount":701
+        "discount":701,
+        "desc":"Carves a niche. A fusion of fabric and wood, the Carven lounge chair is a stunner. It’s been designed for long lounging sessions with your favourite book. For increased comfort, it sports a seat that slopes backwards. Legs and armrest made from Beech Wood Inner frame made of plastic Polyester upholstery Please refer to images for dimension details For indoor use only"
     },
     {
         "id":39,
@@ -390,7 +428,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":14805,
-        "discount":901
+        "discount":901,
+        "desc":"Designed by Grant Featherston in 1951, the R160 Contour armchair is an iconic Australian example of Mid-Century Modern design. The flowing organic curves allow for the chair’s ‘negative’ space to conform perfectly to the ‘positive’ curves of the human body, making it supremely comfortable.The matching ottoman comes with the same button tufted upholstery and turned wooden legs Makes a beautiful accent piece for the living room, bedroom or anywhere else you need a great armchair. This high quality replica features a moulded plywood shell, Beech wood legs and a choice of White or Blue fabric upholstery While we do a thorough quality check at our end, for colour matching, a 5-10% colour variation may appear in a batch depending on production conditions. There might also be a slight variation in the position of the patchwork on the product you receive. Minor variations are completely normal, and in keeping with industry standards, we allow for a maximum of a 10% variation. Refer to images for dimensions"
     },
     {
         "id":40,
@@ -400,7 +439,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":6800,
-        "discount":501
+        "discount":501,
+        "desc":"Carves a niche. A fusion of fabric and wood, the Carven lounge chair is a stunner. It’s been designed for long lounging sessions with your favourite book. For increased comfort, it sports a seat that slopes backwards. Legs and armrest made from Beech Wood Inner frame made of plastic Polyester upholstery Please refer to images for dimension details For indoor use only"
     },
     {
         "id":41,
@@ -410,7 +450,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":23323,
-        "discount":1120
+        "discount":1120,
+        "desc":"Designed by Grant Featherston in 1951, the R160 Contour armchair is an iconic Australian example of Mid-Century Modern design. The flowing organic curves allow for the chair’s ‘negative’ space to conform perfectly to the ‘positive’ curves of the human body, making it supremely comfortable.The matching ottoman comes with the same button tufted upholstery and turned wooden legs Makes a beautiful accent piece for the living room, bedroom or anywhere else you need a great armchair. This high quality replica features a moulded plywood shell, Beech wood legs and a choice of White or Blue fabric upholstery While we do a thorough quality check at our end, for colour matching, a 5-10% colour variation may appear in a batch depending on production conditions. There might also be a slight variation in the position of the patchwork on the product you receive. Minor variations are completely normal, and in keeping with industry standards, we allow for a maximum of a 10% variation. Refer to images for dimensions"
     },
     {
         "id":42,
@@ -420,7 +461,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":23800,
-        "discount":1301
+        "discount":1301,
+        "desc":"An icon in every sense of the word. The Lounge Chair & Ottoman (1956) designed by Charles E. and Ray E., is considered to be one of the most significant designs of the 20th century .This high quality replica pairs sleek moulded plywood with soft artificial leather to create an inviting form that's both beautiful and supremely comfortable. The chair and ottoman are both mounted on swivelling metal bases. Refer to the images for details of dimensions. For indoor use only"
     }
   ],
   "Bedroom"  : [
@@ -432,7 +474,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":11605,
-        "discount":1801
+        "discount":1801,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":44,
@@ -442,7 +485,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":30462,
-        "discount":1264
+        "discount":1264,
+        "desc":"Bedroom is your comfort zone. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. The storage space is useful to keep all your extra belongings safely. It’s divided into two compartments for easy organization and access. This sturdy bed is the perfect choice for quality sleep.Made of engineered wood. Easy assembly and dismantling. Recommended mattress size: King - 78” x 72”, Queen - 78” x 60&rdquo. Please refer to images for dimension details. Indoor use only. For daily care, wipe with a soft, dry cloth."
     },
     {
         "id":45,
@@ -452,7 +496,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":16860,
-        "discount":1990
+        "discount":1990,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":46,
@@ -462,7 +507,8 @@
         "material":"Solid Wood",
         "capacity":3,
         "price":45605,
-        "discount":2110
+        "discount":2110,
+        "desc":"It’s all wood. Crafted from high-grade mango wood, the Duetto bed makes for the perfect unwind zone. Its sleek frame and minimalist design exude a contemporary flavour and blend in seamlessly with various styles of decor. A gently curving headboard supports your back, letting you sit up to read, watch TV or simply have a conversation. Layer the bed with plush quilts and fluffy pillows for a warm, cosy nook you’ll never want to leave."
     },
     {
         "id":47,
@@ -472,7 +518,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":8105,
-        "discount":1011
+        "discount":1011,
+        "desc":"Sink in comfort. Once on the Faroe Upholstered Bed, people tend to forget all their worries. It sports a classy upholstered appeal to add suave to your back and the bedroom. A modern design made for the sweetest of dreams, this might be just what you need.Made of MDF and Particle Board. Legs made up of Rubber Wood. Recommended only foam mattress size: King - 78' x 72' | Queen - 78' x 60'.Recommended mattress thickness minimum 4 inches. Please refer to images for dimension details. Note: Mattress and other accessories not included, unless specified otherwise.For indoor use only."
     },
     {
         "id":48,
@@ -482,7 +529,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":30305,
-        "discount":2001
+        "discount":2001,
+        "desc":"Your beauty sleep comes with a beautiful bed. This modern upholstered bed gives the bedroom a stylish makeover. Its unmatchable comfort and irresistible elegance make it the ideal new addition to your space. Made of MDF and Particle Board. Legs made up of Rubber Wood. Recommended mattress size: King - 78' x 72' | Queen - 78' x 60'.Please refer to images for dimension details. For indoor use only. Note : Mattress and other accessories not included, unless specified otherwise."
     },
     {
         "id":49,
@@ -492,7 +540,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":45005,
-        "discount":4301
+        "discount":4301,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":50,
@@ -502,7 +551,8 @@
         "material":"Solid Wood",
         "capacity":3,
         "price":55605,
-        "discount":3301
+        "discount":3301,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":51,
@@ -512,7 +562,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":40605,
-        "discount":4301
+        "discount":4301,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":52,
@@ -522,7 +573,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":55005,
-        "discount":2381
+        "discount":2381,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":53,
@@ -532,7 +584,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":51005,
-        "discount":1301
+        "discount":1301,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":54,
@@ -542,7 +595,8 @@
         "material":"Solid Wood",
         "capacity":3,
         "price":51760,
-        "discount":999
+        "discount":999,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":55,
@@ -552,7 +606,8 @@
         "material":"Solid Wood",
         "capacity":2,
         "price":56760,
-        "discount":6999
+        "discount":6999,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":56,
@@ -562,7 +617,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":10962,
-        "discount":1337
+        "discount":1337,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":57,
@@ -572,7 +628,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":29760,
-        "discount":2099
+        "discount":2099,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":58,
@@ -582,7 +639,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":19069,
-        "discount":2069
+        "discount":2069,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":59,
@@ -592,7 +650,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":30005,
-        "discount":1201
+        "discount":1201,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":60,
@@ -602,7 +661,8 @@
         "material":"Fabric",
         "capacity":2,
         "price":54805,
-        "discount":2901
+        "discount":2901,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":61,
@@ -612,7 +672,8 @@
         "material":"Fabric",
         "capacity":1,
         "price":52800,
-        "discount":1801
+        "discount":1801,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     },
     {
         "id":62,
@@ -622,7 +683,8 @@
         "material":"Half Leather",
         "capacity":1,
         "price":65800,
-        "discount":31801
+        "discount":31801,
+        "desc":"Make your bedroom your personal haven. Zoey is designed keeping in mind comfort and utility. Minimal in design, it is  thoughtfully crafted to last long. Its light weight makes it easy to move while the strong frame gives strength. Contemporary and durable, it is the perfect addition to your bedroom. You can sleep, relax or simply unwind on this ergonomic sleep partner."
     },
     {
         "id":63,
@@ -632,7 +694,8 @@
         "material":"Solid Wood",
         "capacity":1,
         "price":35800,
-        "discount":1901
+        "discount":1901,
+        "desc":"Timeless low lying bed for modern homes.Beirut solid wood bed in reddish brown is an excellent colour to highlight the contemporary decor of your bedroom.  The simplicity of design coupled with the high functionality makes it a perfect fit for urban spaces. The design makes it ideal for spaces such as guest room. "
     }
   ],
   "Dining"  : [
